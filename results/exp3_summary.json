@@ -1,0 +1,8 @@
+{
+  "p0": 0.02,
+  "p1": 0.03,
+  "rho0": 0.15,
+  "rho_bar": 0.99,
+  "boundary_constant_C": 0.033825918717716875,
+  "nested_interval_holds_for_all_checked": true
+}

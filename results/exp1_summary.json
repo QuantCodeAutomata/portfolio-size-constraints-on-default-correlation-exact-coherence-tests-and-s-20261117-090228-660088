@@ -1,0 +1,40 @@
+{
+  "n_uniform_identities": 10,
+  "n_arcsin_identities": 12,
+  "max_abs_error_probability_scale": 1.6653345369377348e-16,
+  "max_abs_error_log_scale": 8.881784197001252e-16,
+  "n_cross_validation_pairs": 90,
+  "cross_validation_all_agree": true,
+  "cross_validation_n_disagreements": 0,
+  "secondary_accuracy_run": {
+    "max_abs_change_log_orthant": 7.105427357601002e-15,
+    "max_abs_change_correlation_boundary": 2.8782531913407183e-14,
+    "probe_points": [
+      [
+        10,
+        0.02,
+        0.1
+      ],
+      [
+        100,
+        0.02,
+        0.1
+      ],
+      [
+        100,
+        0.025,
+        0.4
+      ],
+      [
+        1000,
+        0.03,
+        0.15
+      ],
+      [
+        50,
+        0.065,
+        0.3
+      ]
+    ]
+  }
+}
