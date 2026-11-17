@@ -41,9 +41,9 @@ Tests:
 python -m pytest -m "not market_data"
 ```
 
-(there is no `market_data` marker here; this is equivalent to
-`python -m pytest` and is kept for consistency with other replications in
-this project family).
+(no test in this repository is marked `market_data`, since no experiment
+loads market data; the command above is equivalent to plain `python -m
+pytest`).
 
 Experiments (from the repository root, as modules):
 

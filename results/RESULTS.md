@@ -219,9 +219,9 @@ non-decreasing repaired all-default probability) hold.
 
 ## Not reproduced
 
-There is nothing to report: all five selected experiments were implemented
-and run at the paper's full configuration (including `n` up to `10**160` in
-Experiment 3, using the log-domain formulation to avoid overflow), and every
-reported metric in Experiments 2-5 and every metric in Experiment 1 except
-the secondary-accuracy-run correlation-boundary change is reproduced to the
-paper's stated precision.
+There is nothing to report: all five experiments (Sections 8.2-8.6) were
+implemented and run at the paper's full configuration (including `n` up to
+`10**160` in Experiment 3, using the log-domain formulation to avoid
+overflow), and every reported metric in Experiments 2-5 and every metric in
+Experiment 1 except the secondary-accuracy-run correlation-boundary change is
+reproduced to the paper's stated precision.

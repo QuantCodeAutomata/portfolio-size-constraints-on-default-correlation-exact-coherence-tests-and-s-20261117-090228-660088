@@ -67,9 +67,9 @@ self-contained numerical computation on parameters taken from the paper.
 python -m pytest -m "not market_data"
 ```
 
-(there is no `market_data` marker in this repository, so this is equivalent
-to `python -m pytest`; the flag is kept for consistency with the shared
-testing convention).
+(no test in this repository is marked `market_data`, since no experiment
+loads market data; the command above is equivalent to plain `python -m
+pytest`).
 
 ## Running the experiments
 
